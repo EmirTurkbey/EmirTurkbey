@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Emir 👋</h1>
 
-<!--
-**EmirTurkbey/EmirTurkbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=420&lines=DevOps+and+Cloud;Linux+%7C+Docker+%7C+CI%2FCD;Learning+by+building" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+I’m interested in **DevOps and cloud infrastructure**.  
+I like working close to the system: Linux, containers, networking and automation.
+
+Mostly learning by:
+- building labs  
+- breaking things  
+- fixing them properly  
+
+---
+
+### Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,terraform,ansible,jenkins,aws,azure,gcp&theme=dark" />
+</p>
+
+---
+
+### What I’m working on
+
+- Docker & Nginx setups  
+- Reverse proxy and networking basics  
+- CI/CD pipelines with Jenkins  
+- Infrastructure as Code with Terraform  
+- Multi-cloud fundamentals (AWS, Azure, GCP)
+
+Main repo:  
+👉 **[devops-cloud-labs](https://github.com/EmirTurkbey/devops-cloud-labs)**
+
+---
+
+### Currently learning
+
+- Kubernetes & Ingress
+- Cloud networking
+- Monitoring and observability
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirTurkbey&show_icons=true&theme=transparent&hide_border=true" />
+</p>
