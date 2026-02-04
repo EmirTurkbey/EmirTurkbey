@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emir 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=420&lines=DevOps+and+Cloud;Linux+%7C+Docker+%7C+CI%2FCD;Learning+by+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=420&lines=DevOps+and+Cloud;Linux+%7C+Docker+%7C+CI%2FCD;Learning+by+building" />
 </p>
 
 ---
@@ -48,5 +48,5 @@ Main repo:
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirTurkbey&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://contribution.oooo.so/_/EmirTurkbey?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green&dark=true" />
 </p>
