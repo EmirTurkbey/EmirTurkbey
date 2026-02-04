@@ -46,7 +46,3 @@ Main repo:
 - Monitoring and observability
 
 ---
-
-<p align="center">
-  <img src="https://contribution.oooo.so/_/EmirTurkbey?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=fall&animation_duration=2&animation_delay=0.005&weeks=30&theme=green&dark=true" />
-</p>
